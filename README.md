@@ -4,7 +4,7 @@
 
 ## Descrição
 
-<p>Projeto feito em Vue.js ultilizando PókeAPI</p>
+<p>Projeto desenvolvido em Vue.js, utilizando a PókeAPI.</p>
 
 
 ## Tecnologias Usadas
